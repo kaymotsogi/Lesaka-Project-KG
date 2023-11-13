@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head><!DOCTYPE html>
+<html>
+<head>
+	<title>Page Title</title>
+</head>
+<body>
+<div class="banner"> 
+		 	<header>
+		 			<div class="Investments Company"> Pumkin Plum Invest<span>ments</span> </div>
+		 			<div class="nav">
+		 				<ul>
+  							<li><a href="#home">Home</a></li>
+ 							 <li><a href="#menu">Menu</a></li>
+  								<li><a href="#contact">Contact</a></li>
+  								<li><a href="#about">About Us</a></li>
+						</ul>
+					</div>
+				
+				</header>
+
+
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+
+				<div class="content">
+					<h1> <span>Pumkim</span>fri<span>C</span>Plum <span>E</span>denglen </h1>
+					<p>  Pumkin Plum Investments is a company that invest in transport logistics and Property portfolio Visit us!! </p>
+				</div>
+
+				<div class="btn">
+				<a href="#news" class="color1">Our Menu</a>
+			</div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			
+			
+		</div>
+			<section class="about" id="about">
+				<div class="row">
+					<div class="col50">
+						<h2 class="titleText"> <span>A</span>bout Us </h2>
+						<p> The company was established in 2012 under trading name Afrotex Holdings and later re branded to Pumkin plum to enable expansion.
+						
+						<br>
+						<br>
+
+						The company  was founded in 2023  by Ms Lerato Mashilo and Mr Motsogi.s. </p>
+
+					</div>
+
+				<div class="col50">
+					<div class="imgBx"> 
+					<img src="ppp" alt="Assorted">
+				</div>
+			</div>
+		</div>
+			</section>
+
+			<section class="menu" id="menu">
+				<div class="title">
+					<h2 class="titleText"> Our <span>M</span>enu</h2>
+					<p> This is an Investment company in different portfolio.
+					</p>
+				</div>
+				<div class="content">
+					<div class="box">
+						<div class="imgBx">
+							<img src="braaicombo.png" alt="">
+							</div>
+							<div class="text">
+						<h3>Investment Plan</h3>	
+						</div>
+					</div>
+						<div class="box">
+							<div class="imgBx">
+								<img src="investment.png">
+						</div>
+						<div class="text">
+						<h3> Housing Portfolio </h3>	
+						</div>
+					</div>
+					<div class="box">
+							<div class="imgBx">
+								<img src="OIP">
+						</div>
+						<div class="text">
+						<h3> Beyond Investment </h3>	
+						</div>
+					</div>
+					<div class="box">
+							<div class="imgBx">
+								<img src="portfolio.Jpg">
+						</div>
+						<div class="text">
+						<h3> Safe Investments</h3>	
+						</div>
+					</div>
+					<div class="box">
+							<div class="imgBx">
+								<img src="What we do">
+						</div>
+						<div class="text">
+						<h3> </h3>	
+						</div>
+					</div>
+					<div class="box">
+							<div class="imgBx">
+								<img src="investment.jpg">
+						</div>
+						<div class="text">
+						<h3> Ditebogo </h3>	
+						</div>
+					</div>
+				</div>
+				<div class="title">
+					<a href="#" class="btn"> <span>V</span>iew All
+				</div>
+			</section>
+
+
+</body>
+</html>
